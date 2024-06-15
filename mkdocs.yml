@@ -1,0 +1,5 @@
+site_name: GAN Specialization Notes
+site_dir: public
+theme: lux
+plugins:
+    - mkdocs-jupyter
